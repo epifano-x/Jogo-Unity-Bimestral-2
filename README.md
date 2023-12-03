@@ -11,7 +11,7 @@
 - **W:** Aplicar força para frente.
 - **A:** Aplicar força para a esquerda.
 - **D:** Aplicar força para a direita.
-- - **S:** Aplicar força para trás.
+-  **S:** Aplicar força para trás.
 
 ## Mecânicas do Jogo
 
